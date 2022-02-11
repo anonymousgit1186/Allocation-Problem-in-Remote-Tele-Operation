@@ -1,0 +1,10 @@
+RecordTimeStamp,CurrentSystemTick,JobsId,WorkerId,ArrivalTime,AssignTime,Reason
+1644421129,209,job79_scenario0_148,notAssignedYet,148,notAssignedYet,long_waiting_time,
+1644421131,295,job122_scenario0_234,notAssignedYet,234,notAssignedYet,long_waiting_time,
+1644421131,305,job129_scenario0_244,notAssignedYet,244,notAssignedYet,long_waiting_time,
+1644421132,315,job135_scenario0_254,notAssignedYet,254,notAssignedYet,long_waiting_time,
+1644421133,352,job161_scenario0_291,notAssignedYet,291,notAssignedYet,long_waiting_time,
+1644421133,361,job167_scenario0_300,notAssignedYet,300,notAssignedYet,long_waiting_time,
+1644421137,481,job232_scenario0_420,notAssignedYet,420,notAssignedYet,long_waiting_time,
+1644421140,632,job309_scenario0_571,notAssignedYet,571,notAssignedYet,long_waiting_time,
+1644421144,806,job395_scenario0_745,notAssignedYet,745,notAssignedYet,long_waiting_time,

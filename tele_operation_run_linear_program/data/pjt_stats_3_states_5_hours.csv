@@ -1,0 +1,6 @@
+﻿hour,probability,park_scenario_a,turn_left_scenario_a,slow_vehicle_scenario_a,foreign_object_scenario_a,extreme_weather_scenario_a,
+17,0.525558495,0.2,0.35,0.2,0.15,0.1,1
+18,0.420446796,0.25,0.25,0.25,0.15,0.1,1
+19,0.315335097,0.25,0.35,0.15,0.15,0.1,1
+20,0.210223398,0.3,0.25,0.2,0.15,0.1,1
+21,0.157667548,0.25,0.2,0.25,0.1,0.2,1

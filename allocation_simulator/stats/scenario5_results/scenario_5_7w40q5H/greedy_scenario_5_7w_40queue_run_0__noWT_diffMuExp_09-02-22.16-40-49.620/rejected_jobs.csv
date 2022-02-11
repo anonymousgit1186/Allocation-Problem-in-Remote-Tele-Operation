@@ -1,0 +1,2 @@
+RecordTimeStamp,CurrentSystemTick,JobsId,WorkerId,ArrivalTime,AssignTime,Reason
+1644424871,526,job251_scenario0_485,notAssignedYet,485,notAssignedYet,long_waiting_time,

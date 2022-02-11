@@ -1,0 +1,2 @@
+RecordTimeStamp,end_time,h_sum_times,h_avg_time,algo_name,results.keys,results,mean_tt_dict,max_tt_dict,num_hungarian_dict,simul_length_dict,run_times,h_avg_time_dict,h_tt_dict,
+1644423802,1644423802.399003,0,0,LP_noWT,[],-340.8711073096311,20.269354838709678,60.0,None,3639,546.4741144180298,0,0,
